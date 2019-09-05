@@ -1,5 +1,5 @@
 CustomerID,CustomerGender,CustomerAge,CustomerCity,AnnualIncome,CreditScore,SpendingScore
-1001,Male,49,Bengaluru,527547.5885,653,78
+1001,Male,49,Bengaluru,527547.5885,653,78 
 1002,Male,59,Bengaluru,207143.1976,630,63
 1003,Female,54,Delhi,164423.8457,555,69
 1004,Female,42,Bengaluru,56220.36443,699,30
