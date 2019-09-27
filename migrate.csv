@@ -1,0 +1,160 @@
+Web_ID,Region_of_Incident,Reported_Date,Number_Dead,Minimum_Estimated_Number_of_Missing,Total_Dead_and_Missing,Number_of_Survivors,Number_of_Females,Number_of_Males,Number_of_Children,Cause_of_Death,Location_Description,Location_Coordinates,UNSD_Geographical_Grouping
+51591,Mediterranean,"March 28, 2019",3,2,2,36,5,2,2,Presumed drowning,"Off the coast of Chios, Greece","38.362368696592, 26.172509473654",Uncategorized
+51588,Mediterranean,"March 26, 2019",4,4,4,11,4,2,3,Presumed drowning,"Off the coast of Ayvacık district, Çanakkale province, Turkey","39.441975591614, 26.378816195919",Uncategorized
+51589,Mediterranean,"March 26, 2019",1,4,1,23,7,5,1,Presumed drowning,"Body recovered on Playa del Tarajal, Ceuta, Spain (Strait of Gibraltar)","35.871901875921, -5.343037665842",Uncategorized
+51590,Mediterranean,"March 26, 2019",1,6,1,12,6,6,7,Presumed drowning,"Body recovered on beach near Tetouan, Morocco (Strait of Gibraltar)","35.635115912988, -5.275650103548",Uncategorized
+51587,Central America,"March 25, 2019",1,3,1,4,3,1,4,Fall from train,"Train tracks in Teacalco, Tlaxcala, Mexico","19.334475177429, -98.069823987538",Central America
+51580,US-Mexico Border,"March 23, 2019",1,5,1,32,2,7,4,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51581,US-Mexico Border,"March 23, 2019",1,4,1,12,3,8,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51585,Southeast Asia,"March 23, 2019",8,2,10,1,1,2,8,Vehicle Accident,"Sa Setthi intersection in Tambon Ban Mai, Tha Muang district, Kanchanaburi, Thailand - en route to Myanmar","13.865704814542, 99.587248723929",South-eastern Asia
+51586,Mediterranean,"March 23, 2019",4,4,8,4,7,5,7,Presumed drowning,"Off the coast of Sfax, Tunisia","35.317034468315, 11.078928258810",Uncategorized
+51578,US-Mexico Border,"March 21, 2019",1,2,1,7,4,5,6,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51579,US-Mexico Border,"March 21, 2019",1,3,1,5,4,4,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51584,Central America,"March 20, 2019",1,2,1,2,3,1,9,Violence,"Town of Nueva Patria (Santo Domingo), Municipality of Durango, State of Durango, Mexico","24.057148900000, -105.457669800000",Central America
+51548,Mediterranean,"March 19, 2019",1,3,4,15,8,3,3,Presumed drowning,"Between Sabratha and Surman, Libya","32.816243467052, 12.530851413107",Uncategorized
+51546,Mediterranean,"March 18, 2019",3,5,3,52,7,2,10,Presumed drowning,"Unspecified location in the Alboran Sea, off the coast of Nador, Morocco","35.267895220573, -2.799562392362",Uncategorized
+51545,Central America,"March 17, 2019",1,3,1,2,6,1,11,Hit by train,"Train tracks near Avenida Vergel, sector centro, Gómez Palacio, Durango, Mexico","25.563914159609, -103.492111622910",Central America
+51547,North Africa,"March 17, 2019",3,19,19,1,3,4,6,Presumed drowning,"Off the coast of Sidi Warzeg, Sidi Ifni, near Agadir, Morocco","29.425766218075, -10.453333285156",Uncategorized
+51577,US-Mexico Border,"March 15, 2019",1,23,1,1,9,5,7,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.331803200000, -112.524509300000",Northern America
+51544,Mediterranean,"March 14, 2019",1,44,45,22,3,7,9,Drowning,"Unspecified location in the Alboran Sea, off the coast of Nador, Morocco","35.298258842764, -2.688431354400",Uncategorized
+51576,US-Mexico Border,"March 13, 2019",1,34,1,5,10,8,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","31.794415600000, -112.446447300000",Northern America
+51534,Caribbean,"March 11, 2019",1,3,1,4,11,1,3,Presumed drowning,"Near Isla Catalina, Dominican Republic","18.232326183657, -69.057353261657",Caribbean
+51575,US-Mexico Border,"March 11, 2019",1,5,1,2,6,3,5,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057701900000, -112.143021500000",Northern America
+51532,Mediterranean,"March 10, 2019",1,2,1,5,7,7,7,Presumed drowning,"Body found near Vatera, Lesvos, Greece","39.014895057350, 26.180971588785",Uncategorized
+51533,Mediterranean,"March 10, 2019",1,8,1,6,9,2,8,Presumed drowning,"Body found near Agios Theodoros, Lesvos, Greece","39.270273892269, 26.398878350778",Uncategorized
+51531,Mediterranean,"March 09, 2019",1,6,1,41,1,2,10,Presumed drowning,"Body recovered in Almaya, Libya","32.817109118023, 12.877722158656",Uncategorized
+51528,Europe,"March 08, 2019",1,7,1,1,3,1,11,Electrocution on railway,"Train tracks near Šid, Serbia","45.122436600000, 19.220929400000",Southern Europe
+51529,Europe,"March 08, 2019",1,1,1,4,5,1,1,Suffocation,"Body found inside truck in Port of Calais, Pas-de-Calais, France","50.971622839886, 1.858666925932",Western Europe
+51530,Mediterranean,"March 08, 2019",2,2,2,6,7,4,5,Presumed drowning,Unspecified location off the coast of Libya,"32.830914360483, 12.781146358787",Uncategorized
+51521,Mediterranean,"March 07, 2019",3,12,3,7,8,3,4,Drowning,"Off the coast of Samos, Greece","37.765329835283, 27.098161931733",Uncategorized
+51526,Central America,"March 07, 2019",1,9,1,8,10,1,7,Cardiac arrest,"Unspecified location in the Darién Gap, Panama, near border with Colombia","8.642780272046, -77.529404492532",Central America
+51527,Central America,"March 07, 2019",24,32,24,9,11,13,6,Vehicle Accident,"Ixtapa – Soyaló Highway, near Bomboná river, in Soyaló municipality, Chiapas, Mexico","16.879242771128, -92.916367624797",Central America
+51574,US-Mexico Border,"March 06, 2019",1,11,1,3,1,4,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51520,South America,"March 05, 2019",1,21,1,3,5,1,2,Pneumonia,"Hospital do Pronto Socorro Municipal, Belém, State of Pará, Brazil","-1.439687700000, -48.480863500000",South America
+51513,Central America,"March 03, 2019",2,11,2,8,4,4,3,Shot,"Comitán de Domínguez-Tuxtla Gutiérrez Highway, near San Francisco Pujiltic town, in Venustiano Carranza municipality, Chiapas, Mexico","16.345883871687, -92.595581925608",Central America
+51514,Mediterranean,"March 03, 2019",1,23,1,36,7,1,1,Presumed drowning,"Body recovered in the Gibraltar Strait, off the coast of Ceuta, Spain","35.907899477687, -5.347827507452",Uncategorized
+51525,Central America,"March 03, 2019",1,1,1,11,6,1,7,Fall from train,"Train tracks between Puente Naranjas and Colonia Las Terceras, San Luis Potosí, Mexico","22.172888700000, -100.967452800000",Central America
+51583,Mediterranean,"February 28, 2019",2,4,6,23,3,1,4,Drowning,"Unspecified location off the coast of Tangiers, Morocco","35.856284991833, -5.854248522049",Uncategorized
+51573,US-Mexico Border,"February 27, 2019",1,3,1,12,2,4,4,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057701900000, -112.143021500000",Northern America
+51571,US-Mexico Border,"February 26, 2019",1,6,1,4,3,5,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057701900000, -112.143021500000",Northern America
+51572,US-Mexico Border,"February 26, 2019",1,5,1,32,1,4,8,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.291122000000, -111.377669100000",Northern America
+51509,Mediterranean,"February 25, 2019",1,7,1,12,7,4,7,Presumed drowning,"Body recovered in Azzawya, Libya","32.799680261076, 12.740310887952",Uncategorized
+51510,US-Mexico Border,"February 25, 2019",1,2,1,1,4,1,6,Presumed drowning,"Canal in Comanche Ranch, near Eagle Pass, Maverick County, Texas, USA","28.620958685162, -100.160775037960",Northern America
+51569,US-Mexico Border,"February 25, 2019",1,1,1,4,4,3,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","31.802384100000, -110.262284200000",Northern America
+51570,US-Mexico Border,"February 25, 2019",1,5,1,7,3,2,9,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.331803200000, -112.524509300000",Northern America
+51506,Mediterranean,"February 24, 2019",1,8,1,5,8,1,3,Presumed drowning,"Body recovered in Azzawya, Libya","32.795883457110, 12.734512549273",Uncategorized
+51507,Europe,"February 24, 2019",2,12,2,2,7,2,10,Drowning,"Mreznica river, Karlovac, Croatia","45.258959762239, 15.406393712910",Southern Europe
+51519,South America,"February 24, 2019",1,2,1,15,6,1,11,"Pneumonia, Malnutrition","Hospital do Pronto Socorro Municipal, Belém, State of Pará, Brazil","-1.439687700000, -48.480863500000",South America
+51505,North Africa,"February 22, 2019",2,9,2,52,3,3,6,Unknown,"Bodies found in the municipality of Béni Bouifrour, Nador, Morocco","35.143072914540, -2.987014300369",Northern Africa
+51508,US-Mexico Border,"February 22, 2019",1,10,1,2,9,1,2,Drowning,"Rio Bravo, near Eagle Pass, Maverick County, Texas, USA","28.718723271107, -100.506647433010",Northern America
+51568,US-Mexico Border,"February 22, 2019",1,41,1,1,3,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.331803200000, -112.524509300000",Northern America
+51498,US-Mexico Border,"February 21, 2019",1,17,1,1,10,1,2,Vehicle Accident,"Otay Mesa, San Diego County, California, USA","32.563023500000, -116.940790500000",Northern America
+51502,US-Mexico Border,"February 21, 2019",2,1,2,22,11,2,1,Unknown,"Multiple locations in Brooks County, Texas, USA","27.131022830084, -98.053451252909",Northern America
+51504,Mediterranean,"February 21, 2019",1,20,1,5,6,1,3,Presumed drowning,"Found in boat in Punta del Guadalmesi, off the coast of Tarifa, Cádiz, Spain","36.004694276199, -5.509231863325",Uncategorized
+51512,Middle East,"February 21, 2019",3,30,3,4,7,4,1,Presumed drowning,"Afrin River near Davutpaşa district, Reyhanli/Hatay, Turkey","36.919584700000, 37.034761500000",Western Asia
+51503,US-Mexico Border,"February 20, 2019",1,2,1,2,9,1,3,Drowning,"All-American Canal, Calexico, Imperial County, California, USA","32.705996627134, -115.159694515790",Northern America
+51496,Central America,"February 19, 2019",1,4,1,5,1,1,1,Cardiac arrest,"Near Puente Rodolfo Robles, on border crossing point between Ciudad Hidalgo, Chiapas and Tecún Umán, Guatemala","14.676488505722, -92.146375389048",Central America
+51497,US-Mexico Border,"February 19, 2019",1,7,1,6,3,6,2,Hit by vehicle,"Highway in Tijuana, near border wall, Baja California, Mexico","32.542375795428, -116.999537459500",Central America
+51566,US-Mexico Border,"February 19, 2019",1,8,1,41,5,1,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51567,US-Mexico Border,"February 19, 2019",1,30,1,1,7,1,4,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51495,Central America,"February 18, 2019",1,9,1,4,8,1,1,Hit by vehicle,"Carretera 57, near Villela, María del Río, San Luis Potosi, Mexico ","22.164571000000, -100.938266000000",Central America
+51524,Middle East,"February 18, 2019",2,3,2,6,10,2,1,Presumed drowning,"Evros/Meriç river, between Paşaköy and Yenicegörece, Edirne, Greece-Turkey border","41.135599001556, 26.326539051871",Western Asia
+51501,US-Mexico Border,"February 17, 2019",1,8,1,7,11,1,6,Unknown,"Ranch in southwest Brooks County, Texas, USA","26.982280497005, -98.267379508161",Northern America
+51476,US-Mexico Border,"February 14, 2019",1,2,1,8,1,1,1,Drowning,"Rio Bravo, between International Bridge 1 and 2, near Eagle Pass, Maverick County, Texas, USA","28.700360570000, -100.510757707230",Northern America
+51477,Mediterranean,"February 14, 2019",1,4,1,9,8,1,1,Unknown,"Port of Ceuta, Spain","35.893361197022, -5.320987701416",Uncategorized
+51494,Mediterranean,"February 14, 2019",3,20,3,3,7,1,1,Presumed drowning,"Bodies recovered in Al-Thalathin, Sirte, Libya","31.207914877621, 16.508365236703",Uncategorized
+51500,US-Mexico Border,"February 14, 2019",1,31,1,3,6,4,2,Unknown (skeletal remains),"Ranch near US Border Patrol checkpoint in Brooks County, Texas, USA","27.040028051146, -98.103990938813",Northern America
+51470,US-Mexico Border,"February 13, 2019",2,1,1,8,3,1,1,Presumed drowning,"Río Bravo, near International Bridge Reynosa-Hidalgo, Tamaulipas, Mexico","26.094483422113, -98.270738236367",Central America
+51471,Central America,"February 13, 2019",1,40,1,7,9,1,1,Vehicle Accident,"Highway Morelia-Salamanca, near Cuitzeo, Michoacán, Mexico","19.984811631957, -101.150053343960",Central America
+51472,Mediterranean,"February 13, 2019",2,1,1,2,3,6,1,Presumed drowning,"Off the coast of Tsonia, Lesvos, Greece","39.417612220935, 26.393699500607",Uncategorized
+51499,US-Mexico Border,"February 11, 2019",1,41,1,4,10,1,1,Unknown (skeletal remains),"Ranch near US Border Patrol checkpoint in Brooks County, Texas, USA","27.025620837846, -98.163042452485",Northern America
+51582,Mediterranean,"February 11, 2019",2,3,3,9,11,1,4,Presumed drowning,"Unspecified location off the coast of Tangiers, Morocco","35.876466418300, -5.812712909613",Uncategorized
+51466,Mediterranean,"February 09, 2019",2,3,5,13,6,1,1,Presumed drowning,"13 nautical miles off the coast of Kristel, commune de Gdyel, province of Oran, Algeria","35.850585778575, -0.543309022656",Uncategorized
+51463,Europe,"February 08, 2019",1,50,1,5,7,2,1,Hypothermia,"Vodni dol forest area, south of Pasjak/Rupa border crossing, Croatia ","45.440507100000, 14.194309800000",Southern Europe
+51461,Europe,"February 07, 2019",1,39,1,6,9,1,6,Hypothermia,"Highway RN 94 between Briançon and Montgenèvre, near Val-des-Près, Hautes-Alpes, France","44.920683173838, 6.673599624343",Western Europe
+51464,US-Mexico Border,"February 07, 2019",1,61,1,7,1,1,1,Presumed drowning,"Río Bravo, near Las Piedritas, Camargo, Tamaulipas, Mexico","26.365378242149, -98.813139596667",Central America
+51465,Central America,"February 07, 2019",1,51,1,8,3,1,1,Murdered,"Bulevar Nazario Ortiz, Colonia Virreyes Residencial, Saltillo, Coahuila, Mexico","25.463711663602, -100.979898450230",Central America
+51460,Mediterranean,"February 06, 2019",1,2,3,42,5,4,1,Presumed drowning,"Unspecified location in the Gibraltar Strait, off the coast of Tangiers, Morocco","35.866177998708, -5.878967760331",Uncategorized
+51511,Mediterranean,"February 06, 2019",1,11,1,12,7,1,2,Presumed drowning,"Body recovered on Plage El Djebel, between El Kala and Messida, wilaya of El Tarf, Algeria","36.902592327412, 8.477123270827",Uncategorized
+51456,North Africa,"February 05, 2019",3,5,3,25,8,1,1,Vehicle Accident,"Road in Driouech, Nador, Morocco","34.960378300119, -3.380756396653",Northern Africa
+51459,Europe,"February 05, 2019",1,3,1,1,10,1,1,Fire,"Building in Prijedorska street, Sarajevo, Bosnia and Herzegovina","43.845373700000, 18.369193500000",Southern Europe
+51455,North Africa,"February 04, 2019",1,23,1,3,11,1,1,Hypothermia,"Unspecified location on the Morocco-Algeria border, near Oujda, Morocco","34.705746117811, -1.775936609354",Northern Africa
+51458,US-Mexico Border,"February 04, 2019",1,13,1,5,1,1,4,Presumed drowning,"Río Bravo, near Guardados de Arriba, Miguel Alemán, Tamaulipas, México","26.378453484173, -98.956549230533",Central America
+51454,North Africa,"February 03, 2019",3,16,3,7,5,5,1,Hypothermia,"Near Osfour mountain range, on the Morocco-Algeria border, near Oujda, Morocco","34.667391957446, -1.812885234328",Northern Africa
+51457,Central America,"February 03, 2019",1,17,1,9,4,1,1,Shot,"KM 22 Highway Tenosique-El Ceibo, near Emiliano Zapata, Tabasco, Mexico","17.728169900000, -91.758994100000",Central America
+51493,Europe,"February 03, 2019",1,1,1,2,7,1,1,Hit by vehicle,"Velika Kladuša, Una-Sana, Bosnia and Herzegovi","45.183837300000, 15.806545400000",Southern Europe
+49259,Caribbean,"February 02, 2019",31,8,31,18,6,6,1,Drowning,"Off the coast of Marsh Harbour, Abaco Island, Bahamas","26.510686692778, -76.937172306250",Caribbean
+51592,US-Mexico Border,"February 01, 2019",1,2,1,6,3,1,1,Presumed drowning,"Rio Bravo, near McAllen, Hidalgo County, Texas, USA","26.082034154560, -98.258656087878",Northern America
+49258,Horn of Africa,"January 29, 2019",52,18,70,16,2,2,5,Presumed drowning,"Off the coast of Godoria, Obock, Djibouti - en route to Yemen","11.903581356334, 43.332109915572",Eastern Africa
+51563,US-Mexico Border,"January 29, 2019",1,4,1,2,3,4,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51564,US-Mexico Border,"January 29, 2019",1,3,1,1,1,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51565,US-Mexico Border,"January 29, 2019",1,5,1,1,7,4,6,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+49254,Central America,"January 28, 2019",1,15,1,22,4,1,1,Fall from train,"Train tracks near Colonia Miguel Alemán, Sayula de Alemán, Veracruz, Mexico","17.871860612667, -94.963871768009",Central America
+49255,South America,"January 28, 2019",19,5,24,5,4,2,2,Presumed drowning,"Off the coast of Capurganá, municipality of Acandi, Chocó, Colombia","8.641338758453, -77.330689179762",South America
+49256,US-Mexico Border,"January 28, 2019",3,3,3,4,3,3,4,Presumed drowning,"Río Bravo, near Rancho Don Eutimio, KM 210 Carretera Ribereña, Nuevo Laredo, Tamaulipas, Mexico","27.345466202071, -99.506891221976",Central America
+49257,Central America,"January 28, 2019",1,4,1,2,8,1,3,Fall from train,"Train tracks near El Derramadero, Coahuila, Mexico - Train line B between Mexico City and Nuevo Laredo","25.286312500000, -101.281562500000",Central America
+49252,US-Mexico Border,"January 26, 2019",1,6,1,5,7,1,4,Presumed drowning,"Río Bravo, near Centro Recreativo La Playita, Reynosa, Tamaulipas, Mexico","26.143064684377, -98.330164834268",Central America
+51562,US-Mexico Border,"January 26, 2019",1,2,1,6,6,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","31.691203800000, -110.461623900000",Northern America
+49251,US-Mexico Border,"January 25, 2019",1,7,1,41,3,1,2,Presumed drowning,"Río Bravo, near Reynosa Díaz, Tamaulipas, Mexico","26.217242152142, -98.455393500959",Central America
+49246,Mediterranean,"January 24, 2019",1,8,1,1,9,1,3,Drowning,"Body recovered on Plage d'El Ain, near Sidi Ben Adda, Ain Témouchent, Algeria","35.384524413151, -1.278253990517",Uncategorized
+49249,US-Mexico Border,"January 24, 2019",2,1,2,4,3,1,1,Vehicle Accident,"Avenida Tecnológico, Ciudad Juárez, Chihuaha, Mexico","31.667101100000, -106.426767800000",Central America
+49250,Central America,"January 24, 2019",1,9,1,6,10,1,1,Fall from train,"Train tracks near San Mateo Ixtacalco, Cuautitlán, Estado de México, Mexico","19.705606860591, -99.174764262762",Central America
+51561,US-Mexico Border,"January 24, 2019",1,5,1,7,11,1,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","31.365435700000, -110.106236400000",Northern America
+49248,US-Mexico Border,"January 23, 2019",1,6,1,8,6,1,1,Presumed drowning,"Río Bravo, near Minas del Seco, Maverick County, USA","28.741004209104, -100.507503434180",Northern America
+49244,US-Mexico Border,"January 22, 2019",1,3,1,9,7,1,1,Presumed drowning,"Río Bravo, near Planta Tratadora de Aguas Negras de la Comisión Municipal de Agua Potable y Alcantarillado, Nuevo Laredo, Tamaulipas, Mexico","27.496386435717, -99.522521470236",Central America
+49247,Mediterranean,"January 22, 2019",1,12,1,3,9,3,1,Presumed drowning,"Body recovered on Plage de Bahara, near Ouled Boughalem, province of Mostaganem, Algeria","36.334378214124, 0.715927412066",Uncategorized
+49242,Mediterranean,"January 21, 2019",1,50,1,3,1,1,1,Unknown,"Died in hospital in Al Khums, Libya - after disembarkation","32.638272650604, 14.273579120636",Uncategorized
+49243,Central America,"January 21, 2019",1,43,1,8,3,1,1,Fall from train,"Hospital in Oluta, after falling from freight train in Jesús Carranza, Veracruz, Mexico","17.932600658549, -94.905738830566",Central America
+49245,Mediterranean,"January 21, 2019",1,32,1,7,5,1,1,Drowning,"Body recovered six nautical miles off the port of Béni-Saf, Ain Témouchent, Algeria","35.398647116844, -1.389655987849",Uncategorized
+49253,Mediterranean,"January 21, 2019",3,1,1,2,7,1,1,Presumed drowning,"Unspecified location off the coast of Al Khums, Libya","32.747691895753, 14.355331747358",Uncategorized
+51556,US-Mexico Border,"January 21, 2019",1,21,1,4,8,2,3,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51557,US-Mexico Border,"January 21, 2019",1,12,1,9,10,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51558,US-Mexico Border,"January 21, 2019",1,12,1,13,11,1,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51559,US-Mexico Border,"January 21, 2019",1,2,1,5,1,7,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+51560,US-Mexico Border,"January 21, 2019",1,4,1,6,3,4,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+48354,Mediterranean,"January 20, 2019",2,5,2,7,2,4,1,Presumed drowning,"Bodies found on boat off the coast of Tripoli, Libya","32.980238100921, 13.179283824044",Uncategorized
+51555,US-Mexico Border,"January 19, 2019",1,11,1,8,3,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+48350,Mediterranean,"January 18, 2019",2,117,117,42,1,8,2,Presumed drowning,"50 miles off the coast of Garabuli, Libya","34.177488404634, 14.107902221177",Uncategorized
+48353,Mediterranean,"January 18, 2019",1,10,1,12,7,7,1,Presumed drowning,"Off the coast of Farmakonisi, Greece","37.283283323213, 27.104012036372",Uncategorized
+48349,Mediterranean,"January 17, 2019",3,53,53,25,4,6,3,Presumed drowning,"Unspecified location in the Alboran Sea, between Morocco and Spain","35.683709040408, -3.185250605342",Uncategorized
+51553,US-Mexico Border,"January 17, 2019",1,5,1,1,4,3,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.481200700000, -111.667840700000",Northern America
+51554,US-Mexico Border,"January 17, 2019",1,9,1,3,3,9,1,Dehydration,"Pima County jurisdiction, Arizona, USA","31.746892100000, -111.945738600000",Northern America
+48351,US-Mexico Border,"January 16, 2019",2,1,1,5,8,3,4,Presumed drowning,"Río Bravo, near El Chalán, Gustavo Díaz Ordaz, Tamaulipas, Mexico","26.258109878807, -98.596733869797",Central America
+48352,US-Mexico Border,"January 16, 2019",1,2,1,7,7,10,1,Drowning,"Río Bravo, near Rancho Las Trancas, Jiménez, Coahuila, Mexico","29.063937500000, -100.663562500000",Central America
+48346,Mediterranean,"January 15, 2019",1,3,1,9,6,11,1,Hit by truck,"Port of Melilla, Spain","35.289594291265, -2.933496506173",Uncategorized
+48347,Central America,"January 15, 2019",1,4,1,2,3,6,5,Murdered,"Body found in Colonia Ignacio Zaragoza, near Port of Veracruz, Mexico","19.178049100000, -96.128842600000",Central America
+48348,US-Mexico Border,"January 15, 2019",4,5,2,18,9,7,1,Presumed drowning,"Río Bravo, near El Patinadero, Parque Viveros, Nuevo Laredo, Tamaulipas, Mexico","27.478392338088, -99.479276945846",Central America
+51523,Middle East,"January 15, 2019",3,9,3,6,3,9,1,Presumed drowning,"Evros/Meriç river, between İpsala and Meriç, Edirne, Greece-Turkey border","40.942167951616, 26.352665973258",Western Asia
+51552,US-Mexico Border,"January 15, 2019",1,6,1,16,10,1,5,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+48343,Mediterranean,"January 14, 2019",10,5,10,2,11,3,1,Presumed drowning,"Bodies recovered off the shore of Sirte, Libya","31.210755489725, 16.588350626388",Uncategorized
+48344,Mediterranean,"January 14, 2019",1,3,1,1,6,5,1,Unknown,"5 miles from Kusadasi, Kuşadası/Aydın Province, Turkey ","37.857359600378, 27.167936354123",Uncategorized
+48345,US-Mexico Border,"January 14, 2019",1,1,1,1,7,7,5,Murdered,"Rancho El Caporal, Piedras Negras, Coahuila, Mexico","28.730727706150, -100.563445215960",Central America
+48311,Central America,"January 13, 2019",1,6,1,22,9,8,5,Hit by train,"Hospital in Saltillo, Coahuila, Mexico (after being hit by train)","25.438323400000, -100.973678000000",Central America
+48312,Mediterranean,"January 13, 2019",5,4,5,5,1,10,3,Presumed drowning,"Bodies recovered off the shore of Sirte, Libya","31.220020736471, 16.567751261154",Uncategorized
+48310,Central America,"January 12, 2019",1,2,1,4,3,11,3,Vehicle Accident,"KM 103 Federal Highway La Tinaja-Cosoleacaque, near Cosamaloapan, Veracruz, Mexico","18.329901676413, -95.812964294797",Central America
+48308,Mediterranean,"January 11, 2019",1,1,1,2,5,1,1,Presumed drowning,"Off the coast of Beni Ensar, Nador province, Morocco","35.261606842877, -2.901902411860",Uncategorized
+48309,Europe,"January 11, 2019",1,3,1,5,7,5,53,Hit by vehicle,"Highway 515 near Blainville-sur-Orne, between Caen and Ouistreham, Normandie, France","49.232567558821, -0.290652339042",Western Europe
+48342,Mediterranean,"January 07, 2019",2,5,2,6,8,4,1,Presumed drowning,"Bodies recovered off the shore of Sirte, Libya","31.224587793151, 16.529299112716",Uncategorized
+48116,US-Mexico Border,"January 06, 2019",1,7,1,41,10,7,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.057499000000, -111.666072500000",Northern America
+48307,Mediterranean,"January 05, 2019",1,6,1,1,11,6,1,Presumed drowning,"Body recovered on beach near Cabo de Sabinar, Almerimar, El Éjido, Almería, Spain","36.685755388762, -2.777835705707",Uncategorized
+48075,Mediterranean,"January 04, 2019",1,8,1,4,1,3,1,Presumed drowning,"Body recovered on Playa de Calahonda, Mijas, Málaga, Spain","36.485367400000, -4.738263000000",Uncategorized
+48117,South America,"January 04, 2019",1,9,1,6,4,2,1,Dehydration,"Timbío, Cauca, Colombia","2.352686000000, -76.683352000000",South America
+48071,Mediterranean,"January 02, 2019",1,3,1,7,4,3,1,Presumed drowning,"Unspecified location in the Alboran Sea, between Spain and Morocco","35.886028764776, -3.811126192952",Uncategorized
+48072,Mediterranean,"January 02, 2019",1,2,1,8,3,1,2,Presumed drowning,"Body recovered 12 miles southeast of Cape Trafalgar, off the coast of Barbate, Cádiz, Spain","36.184741288501, -5.915458663672",Uncategorized
+48073,Mediterranean,"January 02, 2019",6,4,6,9,8,7,3,Presumed drowning,"Bodies recovered on the shores of Al-Sawawa, Sirte, Libya","31.208814747402, 16.594403365833",Uncategorized
+48115,US-Mexico Border,"December 31, 2018",1,4,1,3,7,4,1,Unknown (skeletal remains),"Pima County jurisdiction, Arizona, USA","32.276924900000, -112.859884600000",Northern America
+48089,Caribbean,"December 30, 2018",2,3,2,3,6,4,10,Presumed drowning,"46 miles east of the Jupiter Inlet, Florida, USA","26.830437500000, -79.525312500000",Caribbean
+48090,Sub-Saharan Africa,"December 30, 2018",14,8,14,8,3,3,1,Suffocation,"Inside vehicle on Tanzania-Zambia highway, near Morogoro, Mindu, Tanzania","-6.840928719012, 37.626193558523",Eastern Africa
+48087,Mediterranean,"December 28, 2018",8,7,7,7,9,8,1,Presumed drowning,"15 miles northeast of Cape Greco, Cyprus (boat departed from Tripoli, Lebanon)","34.869024451220, 34.492835772639",Uncategorized
+48088,US-Mexico Border,"December 28, 2018",1,3,1,2,3,7,1,Drowning,"Off the coast of Imperial Beach, San Diego County, California, USA","32.541882023698, -117.133734140230",Northern America
+48322,US-Mexico Border,"December 27, 2018",1,2,1,4,10,6,1,Unknown,"Ranch east of the Falfurrias US Border Patrol Checkpoint, Brooks County, Texas, USA (80 miles north of border with Mexico)","27.028916988435, -98.070345308930",Northern America
+48085,Europe,"December 25, 2018",1,6,1,9,11,3,2,Vehicle Accident,"Between Via Flaminia and Via Conca, Ancona, Marche, Italy","43.609902506139, 13.456590016544",Southern Europe
+48086,US-Mexico Border,"December 25, 2018",1,5,1,13,6,9,3,Hypothermia,"Ranch near Hopedale, Maverick County, Texas, USA","28.759006919815, -100.519348400100",Northern America
+48084,Mediterranean,"December 24, 2018",4,4,4,5,7,3,1,Presumed drowning,Unspecified location off the coast of Morocco,"35.481680686032, -3.342110714760",Uncategorized
+48082,Mediterranean,"December 23, 2018",3,2,2,6,9,10,7,Unknown,"Unspecified location in the Alboran Sea, bodies thrown overboard","36.175539175051, -3.432980466971",Uncategorized
+48083,Mediterranean,"December 23, 2018",2,12,12,7,1,11,4,Presumed drowning,"Unspecified location in the Gibraltar Strait, boat departed from Cap Spartel, Tangiers, Morocco","35.940386653024, -5.940460712849",Uncategorized
+48341,Middle East,"December 23, 2018",1,1,1,8,3,6,4,Shot,"Syria-Turkey border, Idlib Governorate, Syria","35.963071341506, 36.294640216232",Western Asia
+48081,Mediterranean,"December 21, 2018",1,2,1,42,5,1,3,Presumed drowning,"Body recovered in Calamacarro, near Benzú, Ceuta, Spain","35.914961693807, -5.380634704776",Uncategorized
+48340,Middle East,"December 21, 2018",1,3,1,12,7,1,8,Shot,"Syria-Turkey border, Idlib Governorate, Syria","36.010976380608, 36.291893634201",Western Asia
+48070,Mediterranean,"December 20, 2018",12,12,24,25,8,10,7,Drowning,"Unspecified location in the Alboran Sea. Survivors and recovered bodies disembarked in Almeria, Spain","36.385858171134, -2.625576919231",Uncategorized
+48078,US-Mexico Border,"December 20, 2018",1,3,1,1,10,1,6,Drowning,"Río Bravo, south of Eagle Pass port of entry, Maverick County, Texas, USA","28.655830400381, -100.480611280930",Northern America
